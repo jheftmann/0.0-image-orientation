@@ -1,12 +1,14 @@
 # 0.0 Image orientation
 Automatically detect whether an image or object is landscape, portrait, or square.
 
+See the [demo]().
+
 ## Installation
 Link to `0.0-image-orientation.js` after linking to jQuery.
 
 ```
 <script src="jquery.js"></script>
-<script src="../0.0-image-orientation.js"></script>
+<script src="0.0-image-orientation.js"></script>
 ```
 
 ## Implementation
@@ -26,4 +28,4 @@ If you want to use it on other objects, add the class `.js-image-orientation` to
 <div class="js-image-orientation"></div>
 ```
 
-Your images/objects will have a class applied applied to them based on their orientation:`.img-portrait`, `.img-landscape`, or `.img-square`
+Your images/objects will have a class applied applied to them based on their orientation:`.img-portrait`, `.img-landscape`, or `.img-square`.
