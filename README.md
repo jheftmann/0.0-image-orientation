@@ -1,4 +1,4 @@
-# 0.0 Image orientation
+# 0.0: Image orientation
 Automatically detect whether an image or object is landscape, portrait, or square.
 
 See the [demo](http://jheftmann.github.io/0.0-image-orientation).
